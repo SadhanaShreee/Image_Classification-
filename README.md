@@ -58,9 +58,9 @@ Make predictions on new images and analyze the results.
 
 ## PROGRAM
 
-### Name: JWALAMUKHI S
+### Name: SADHANA SHREE B
 
-### Register Number: 212223040079
+### Register Number: 212223230177
 
 ```python
 class CNNClassifier(nn.Module):
